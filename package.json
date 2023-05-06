@@ -1,0 +1,28 @@
+{
+  "name": "fyers-brokerage-api",
+  "version": "1.0.0",
+  "description": "Stockbrokerage Api integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROHITCNF/Fyers-Brokerage-API.git"
+  },
+  "keywords": [
+    "Stock",
+    "Brokerage"
+  ],
+  "author": "RohitCnf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROHITCNF/Fyers-Brokerage-API/issues"
+  },
+  "homepage": "https://github.com/ROHITCNF/Fyers-Brokerage-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fyers-api-v2": "^1.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
